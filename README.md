@@ -1,5 +1,7 @@
 # 🏥 Power BI Healthcare Data Analysis
 
+![Entire Dashboard](https://github.com/user-attachments/assets/297bb730-0106-4140-8995-56ba0ebbbb59)
+
 ## 📌 Objective
 The goal of this project is to analyze **hospital performance, patient discharge trends, and cost efficiency** using Power BI. The project provides data-driven insights to optimize **Length of Stay (LOS)**, **hospital utilization**, and **cost per discharge** across multiple hospitals.
 
